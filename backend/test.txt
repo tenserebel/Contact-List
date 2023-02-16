@@ -1,0 +1,17 @@
+api/auth/login:
+
+{
+    "username":"tenserebeal",
+    "first_name":"prem",
+    "last_name":"jha",
+    "password":"password213",
+    "email":"emaild@gmail.com"
+}
+
+api/contacts/:
+{
+    "country_code":"91",
+    "first_name":"prem",
+    "last_name":"jha",
+    "phone_number":"7738890779",
+}

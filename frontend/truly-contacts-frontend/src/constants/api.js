@@ -1,0 +1,1 @@
+export const CONNECTION_ERROR = "COULDN'T CONNECT";
